@@ -2,6 +2,7 @@
 
 Old Watch: 
   - Needs battery
+
 IoT Watch: 
   - Contains sensors
   - Can be charged with cable
