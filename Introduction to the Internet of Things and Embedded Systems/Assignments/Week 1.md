@@ -11,6 +11,7 @@ IoT Watch:
 
 Old Watch: 
 - Shows only time
+
 IoT Watch: 
 - Shows time
 - Calculates heart rate and blood pressure
@@ -21,8 +22,10 @@ IoT Watch:
 Improvements:
 - Facilitates life
 - Makes calls
+
 Diminishments:
 - No security
+
 Limitations:
 - Small screen
 
@@ -30,6 +33,7 @@ Limitations:
 
 Issues:
 - They can detect your location
+
 Comparison:
 - Old Watch: 500$ in 2000 -> 745.9$ in 2019
 - New Watch: 1000$ in 2019
