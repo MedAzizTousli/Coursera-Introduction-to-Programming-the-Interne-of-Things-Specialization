@@ -1,5 +1,4 @@
-### In your own words, write a short paragraph describing the differences between the TCP and IP protocols. Then, in your own words, describe the different roles between the TCP and IP protocols in Internet communication.em. The Arduino should be wired to sensors and/or actuators which help it to perform some useful task in your home. 
-
+### In your own words, write a short paragraph describing the differences between the TCP and IP protocols. Then, in your own words, describe the different roles between the TCP and IP protocols in Internet communication.
 
 The OSI model is composed of different layers that contains different protocols.
 
